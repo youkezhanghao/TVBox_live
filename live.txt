@@ -1,10 +1,6 @@
 ﻿🇨🇳卫视频道,#genre#
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-东南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东方卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东方卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-云南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-内蒙古卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+辽宁卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+辽宁卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 厦门卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -38,8 +34,6 @@
 甘肃卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 西藏卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 贵州卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001048/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-辽宁卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-辽宁卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金鹰卡通,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001067/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -100,86 +94,3 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2614190807_1624483481/ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8?icpid=3&RTS=1674387024&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 
-🎞️电影联通线路,#genre#
-
-华语经典,http://epg.112114.xyz/douyu/434971
-华语电影,http://epg.112114.xyz/douyu/3928
-吃米滴虫,http://epg.112114.xyz/douyu/315457
-神乐华语,http://epg.112114.xyz/douyu/85894
-吃奶滴虫,http://epg.112114.xyz/douyu/263824
-特辑影院,http://epg.112114.xyz/douyu/3637778
-贝爷MAX厅,http://epg.112114.xyz/douyu/4332
-漫威影片,http://epg.112114.xyz/douyu/6140589
-周星驰电影,http://epg.112114.xyz/douyu/122402
-刘德华电影1,http://epg.112114.xyz/douyu/2516864
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-经典武侠,http://epg.112114.xyz/douyu/4246519
-那些年的经典,http://epg.112114.xyz/douyu/1274132
-林正英电影1,http://epg.112114.xyz/douyu/218859
-林正英电影2,http://epg.112114.xyz/douyu/7356023
-女神金电影,http://epg.112114.xyz/douyu/747764
-贝爷影厅1,http://epg.112114.xyz/douyu/252802
-贝爷影厅2,http://epg.112114.xyz/douyu/36337
-电影欧美,http://epg.112114.xyz/douyu/20415
-冰冰经典电影,http://epg.112114.xyz/douyu/74374
-林林影院,http://epg.112114.xyz/douyu/9826611
-恐怖经典,http://epg.112114.xyz/douyu/1165374
-变种人电影,http://epg.112114.xyz/douyu/9651304
-麓山迷踪,http://epg.112114.xyz/douyu/4505431
-欧美大片,http://epg.112114.xyz/douyu/2793084
-小宇60帧,http://epg.112114.xyz/douyu/323876
-4K HDR,http://epg.112114.xyz/douyu/9249162
-喜剧电影专场,http://epg.112114.xyz/douyu/9292492
-恐怖影片,http://43.138.170.29:35455/huya/11602075
-師落,http://epg.112114.xyz/douyu/6582435
-赵本山小品,http://epg.112114.xyz/douyu/9817716
-宋小宝小品,http://epg.112114.xyz/douyu/9817729
-经典小品,http://epg.112114.xyz/douyu/9067836
-情景喜剧,http://epg.112114.xyz/douyu/3980787
-经典电视剧,http://epg.112114.xyz/douyu/7459925
-连续剧1,http://epg.112114.xyz/douyu/4549169
-连续剧2,http://epg.112114.xyz/douyu/7623292
-连续剧3,http://epg.112114.xyz/douyu/7476264
-看剧,http://epg.112114.xyz/douyu/431460
-武侠剧,http://epg.112114.xyz/douyu/7655471
-
-🌍海外频道,#genre#
-中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-俄罗斯,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-俄罗斯,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-华盛顿DC,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-华盛顿DC,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-华盛顿DC,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-EZTV2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-EZTV6,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-EZTV1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8
-MyTime movie,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.to
-MyTime movie,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
-埃及 Mokameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
-🇨🇳河南地方,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=8bc44807902efc432a048d11bf8723ad&wsTime=1707972310
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=d63ce64528e38ffcd1e9f7ee1467e50c&wsTime=1707972310
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=b1198d42f6f5a4607936252414f532fd&wsTime=1707972310
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=3db5c0f9c7ec9f33d5d885ead711b8f6&wsTime=1707972310
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=c5b6a3532a8f8f6c431287d8e815cab0&wsTime=1707972310
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=dd5a6c45b59c879615882e3f859f3543&wsTime=1707972310
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=c6a5bdf82dd90ae1a1109af176c6d0e1&wsTime=1707972310
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=e6c73dd83a69121f6853b6535f95792d&wsTime=1707972310
-河南国际,http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=50748a5bab57ac08b663e52a5b3fdc65&wsTime=1707972310
-梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=c0df228a2013e77d2d7b1de1ca7e9fe0&wsTime=1707972310
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=a85bf482800515a3b863440cc2b2277a&wsTime=1707972310
-武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=7a853d0ba8eebf7b79191013659e6a2c&wsTime=1707972310
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=a5dc4b281ca24b2414ebb6a9b8dce67e&wsTime=1707972310
-移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=874fcc61b9ebeb8e1f285319d7a795fb&wsTime=1707972310
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=8d0c6313defbc8760c1f4f957c2e7a0d&wsTime=1707972310
-国学频道,http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=39233d314416e527e0a5b586db124da2&wsTime=1707972310
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=d7ab44fec1a79b1007bec936a108c555&wsTime=1707972310
